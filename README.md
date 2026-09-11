@@ -1,3 +1,4 @@
+#WARNING ** IN CASE RENDERING ERROR PLEASE DOWNLOAD THE SELECTED FILE TO VIEW**
 # HCI & CG Assignments
 
 **Student:** Muhammad Abbas Babar Khan  
