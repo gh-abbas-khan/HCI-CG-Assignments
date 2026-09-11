@@ -1,34 +1,32 @@
-# HCI & CG Lab 01 — NumPy Image Array Mechanics
+# HCI & CG Assignments
 
-This repository contains solutions for Lab 01 of Human-Computer Interaction and Computer Graphics.
-
-## Student
-
-**Name:** Abbas Khan  
-**Student-id:** CSE/89/2K24  
+**Student:** Muhammad Abbas Babar Khan  
+**Student ID:** CSE/2K24/89  
 **Program:** BS Computer Science  
 
-## Files
+This repository contains assignments for Human-Computer Interaction (HCI) and Computer Graphics (CG).
 
-- `task1_display_ppi.py` — Display PPI/DPI calculator
-- `task2_synthetic_image.py` — Synthetic RGB image creation using NumPy
-- `task3_channel_slicing.py` — RGB channel extraction and isolation
-- `task4_downsampling.py` — Image downsampling and pixelation
-- `sample.jpg` — Input image used in Tasks 3 and 4
+## Lab 01 — NumPy Image Arrays
 
-## Requirements
+Python programs for display PPI/DPI calculation, synthetic RGB image creation, RGB channel slicing, and image downsampling/pixelation.
 
-Install required Python libraries:
+- `task1_display_ppi.py`
+- `task2_synthetic_image.py`
+- `task3_channel_slicing.py`
+- `task4_downsampling.py`
+- `sample.jpg` — input image for Tasks 3 and 4
 
-```bash
-pip install -r requirements.txt
-```
-
-## Run the tasks
+Install packages:
 
 ```bash
-python task1_display_ppi.py
-python task2_synthetic_image.py
-python task3_channel_slicing.py
-python task4_downsampling.py
+pip install numpy pillow matplotlib
 ```
+
+## Tinkercad Assignment
+
+A short HCI and CG interface analysis of Tinkercad.
+
+- `HCI_CG_Tinkercad_Assignment.pptx`
+- `screenshots/` — annotated Tinkercad images
+
+It covers HCI elements such as tools, controls, and dimension handles, plus CG elements such as shadows, perspective, and shaded 3D faces.
