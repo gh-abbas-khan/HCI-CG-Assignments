@@ -5,7 +5,7 @@ This repository contains solutions for Lab 01 of Human-Computer Interaction and 
 ## Student
 
 **Name:** Abbas Khan  
-**Student-id:** CSE/89/2K24 
+**Student-id:** CSE/89/2K24  
 **Program:** BS Computer Science  
 
 ## Files
